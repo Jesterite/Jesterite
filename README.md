@@ -2,10 +2,10 @@
 
 ## Game Developer & Programmer
 
-Contact Information
-GitHub: Jesterite
-Roblox: [jackuhah](https://www.roblox.com/users/617237907/profile)
-Discord: Jesterite#0
+Contact Information:
+ GitHub: Jesterite
+ Roblox: [jackuhah](https://www.roblox.com/users/617237907/profile)
+ Discord: Jesterite#0
 
 <!--
 **Jesterite/Jesterite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
