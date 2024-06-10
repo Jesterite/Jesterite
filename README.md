@@ -15,11 +15,11 @@ Contact Information:
 An experienced game developer with ~ 3 years of experience. Semi skilled in game programming and quality assurance, and has a unique background in security and exploitation.
 
 ## Technical Skills
-# Languages: Lua, LuaU, Python, Java, HTML, CSS, JavaScript.
-# Tools & Technologies: Roblox Studio, Git, VSC, VS, GitHub.
-# Other Skills: Game Design, Project Management, 3D Modeling, UI/UX, Animation.
+ **Languages:** Lua, LuaU, Python, Java, HTML, CSS, JavaScript.
+ **Tools & Technologies:** Roblox Studio, Git, VSC, VS, GitHub.
+ **Other Skills:** Game Design, Project Management, 3D Modeling, UI/UX, Animation.
 
 
 ## Projects, Contributions and OSS
-# Random Projects:
+ **Random Projects**:
 
