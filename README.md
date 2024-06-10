@@ -16,8 +16,11 @@ An experienced game developer with ~ 3 years of experience. Semi skilled in game
 
 ## Technical Skills
  **Languages:** Lua, LuaU, Python, Java, HTML, CSS, JavaScript.
+ 
  **Tools & Technologies:** Roblox Studio, Git, VSC, VS, GitHub.
+ 
  **Other Skills:** Game Design, Project Management, 3D Modeling, UI/UX, Animation.
+ 
 
 
 ## Projects, Contributions and OSS
