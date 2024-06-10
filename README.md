@@ -3,21 +3,23 @@
 ## Game Developer & Programmer
 
 Contact Information:
- GitHub: Jesterite
- Roblox: [jackuhah](https://www.roblox.com/users/617237907/profile)
- Discord: Jesterite#0
 
-<!--
-**Jesterite/Jesterite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  • GitHub: [Jesterite](https://github.com/Jesterite)
+ 
+  • Roblox: [jackuhah](https://www.roblox.com/users/617237907/profile)
+ 
+  • Discord: ```Jesterite#0```
 
-Here are some ideas to get you started:
+## Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An experienced game developer with ~ 3 years of experience. Semi skilled in game programming and quality assurance, and has a unique background in security and exploitation.
+
+## Technical Skills
+## Languages: Lua, LuaU, Python, Java, HTML, CSS, JavaScript.
+## Tools & Technologies: Roblox Studio, Git, VSC, VS, GitHub.
+## Other Skills: Game Design, Project Management, 3D Modeling, UI/UX, Animation.
+
+
+## Projects, Contributions and OSS
+## Random Projects:
+
